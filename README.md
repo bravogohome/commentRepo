@@ -1,2 +1,3 @@
 # commentRepo
-存储评论
+存储blog评论
+使用gitalk
